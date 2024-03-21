@@ -1,0 +1,13 @@
+*{
+    color: red;
+}
+form{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 2px;
+    background-color: white;
+}
+body{
+    background-color: blueviolet;
+}
